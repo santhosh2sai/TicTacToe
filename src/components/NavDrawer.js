@@ -36,8 +36,6 @@ toggle = () => {
                 }}
                 >
                 LoginContainer
-
-
                 </div>
                 <Divider />
                 <Link

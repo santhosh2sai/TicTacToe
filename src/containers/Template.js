@@ -16,7 +16,7 @@ export default class Template extends Component {
 
               <NavDrawer />
               <Header >
-                Home
+                TicTacToe
               </Header>
               <Main>
               {this.props.children}
